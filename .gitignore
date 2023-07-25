@@ -2,4 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 angela.txt
+=======
+.R
+/script.R
+>>>>>>> bf34245e471cff2555a814804df2dd0963a27692
