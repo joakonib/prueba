@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-angela
-=======
-hola vengo a hacer un conflicto de merge
->>>>>>> 054a2adc5cb730f4c21b968612330c152828a651
